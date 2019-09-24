@@ -1,2 +1,2 @@
-# algorithems
-a list of my times with rubiks kubes
+# algorithms
+a list of my times with rubiks cubes
